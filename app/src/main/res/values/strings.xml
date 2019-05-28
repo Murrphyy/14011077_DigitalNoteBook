@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">14011077_DigitalNoteBook</string>
+    <string name="action_create_note">Create Note</string>
+    <string name="create_note">Create Note</string>
+    <string name="note_title">Title(*)</string>
+    <string name="note_details">Details</string>
+    <string name="note_date">Date</string>
+    <string name="note_time">Time</string>
+    <string name="note_address">Address</string>
+    <string name="channel_name">mynotif</string>
+    <string name="channel_description">examplenotif</string>
+    <string name="cover_image">Select Cover Image</string>
+    <string name="color_title">Colour</string>
+    <string name="note_priority">Priority(*)</string>
+    <string name="notecreate_header">CUSTOMIZE AND CREATE YOUR OWN NOTE</string>
+    <string name="info_create_note">Fields marked with * are necessary</string>
+    <string name="title_activity_note_details">NoteDetailsActivity</string>
+</resources>
